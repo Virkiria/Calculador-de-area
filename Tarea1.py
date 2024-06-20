@@ -1,6 +1,8 @@
 #Tarea1
 import math
 
+#Bienvenida
+
 print("Para saber el area total del muñeco, porfavor digite las siguentes medidas")
 base_triang = float (input ("¿Cual es la base del triangulo?"))
 altura_triang = float (input ("¿Cual es la altura del triangulo?"))
